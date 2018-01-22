@@ -8,6 +8,7 @@ _NOTICE: Formerly known as `rhumsaa/uuid`, The package and namespace names have 
 [![Build Status][badge-build]][build]
 [![Coverage Status][badge-coverage]][coverage]
 [![Total Downloads][badge-downloads]][downloads]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fuuid.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fuuid?ref=badge_shield)
 
 ramsey/uuid is a PHP 5.4+ library for generating and working with [RFC 4122][rfc4122] version 1, 3, 4, and 5 universally unique identifiers (UUID).
 
@@ -157,3 +158,6 @@ The ramsey/uuid library is copyright © [Ben Ramsey](https://benramsey.com/) and
 [build]: https://travis-ci.org/ramsey/uuid
 [coverage]: https://coveralls.io/r/ramsey/uuid?branch=master
 [downloads]: https://packagist.org/packages/ramsey/uuid
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fuuid.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fuuid?ref=badge_large)
